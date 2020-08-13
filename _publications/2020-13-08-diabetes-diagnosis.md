@@ -3,7 +3,7 @@ title: "The spillover effects of diabetes diagnosis on partners' behaviour (Job 
 collection: research
 permalink: /publication/diabetes-diagnosis
 excerpt: 'The spillover effects of diabetes diagnosis on partners' behaviour'
-date: 2020-08-13
+date: 2020-13-08
 #venue: 'Journal 1'
 paperurl: 'A downloadable version of this paper will be available shortly.'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
