@@ -44,7 +44,8 @@
       {% elsif post.collection == 'workingpapers' %}
         <p>Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
       {% elsif post.author and post.collection == 'workingpapers' %}
-        <p>Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }} </p> <p> <i> joint with <strong> {{ post.author }} </strong> </i> <p>
+        <p>Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }}
+        <i> joint with <strong> {{ post.author }} </strong> </i> <p>
       {% elsif post.date %}
        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%d %B %Y" }}</time></p>
       {% endif %}
