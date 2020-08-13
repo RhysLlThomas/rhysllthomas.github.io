@@ -44,6 +44,7 @@
       {% elsif post.collection == 'publications' %}
         {% if post.author %}
         <p> <i> joint with {{ post.author }} </i> <p>
+        {% else %}  
         {% endif %}
         <p>Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
       {% elsif post.date %}
