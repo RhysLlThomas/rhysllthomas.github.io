@@ -33,7 +33,7 @@ layout: default
 
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }} </p>
-        {% elsif page.venue and page.date %}
+        {% elsif page.venue %}
           <p> <i> joint with <strong> {{ post.author }}. </strong> </i>
           Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }} </p>
         {% elsif page.date %}
