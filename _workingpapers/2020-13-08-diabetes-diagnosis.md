@@ -4,9 +4,9 @@ collection: workingpapers
 permalink: /workingpapers/2020-13-08-diabetes-diagnosis
 excerpt: 'The spillover effects of diabetes diagnosis on partners' behaviour'
 date: 2020-13-08
-#venue: 'Journal 1'
+venue: #'Journal 1'
 paperurl: 'A downloadable version of this paper will be available shortly.'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 # Abstract
