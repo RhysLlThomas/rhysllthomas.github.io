@@ -25,4 +25,4 @@ A downloadable copy of this paper will be here available shortly.
 
 >Using data from the Oregon Health Insurance Experiment (OHIE) we analyse the redistributive impacts of a publicly financed health insurance expansion. We use a residual inclusion methodology combined with quantile, and ordered logit regressions to estimate the heterogeneity in the effects of health insurance across the income distribution. We find that there are indeed redistributive impacts, even in the small income window we have access to, which would otherwise be concealed in a linear regression. Those at the lower end of the income distribution tend to have a substantial increase in their disposable income as a result of health insurance coverage, while those at the upper end see no change in income.
 
-A downloadable copy of this paper will be here available shortly.**
+A downloadable copy of this paper will be here available shortly.
