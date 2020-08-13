@@ -43,7 +43,7 @@
       <p> <strong> Module Evaluation: </strong> {{ post.evaluation }} </p>
       {% elsif post.collection == 'workingpapers' %}
         <p>Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
-      {% elsif post.author and post.collection == 'workingpapers' %}
+      {% elsif post.author %}
         <p>Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
         <p> <i> joint with <strong> {{ post.author }} </strong> </i> </p>
       {% elsif post.date %}
