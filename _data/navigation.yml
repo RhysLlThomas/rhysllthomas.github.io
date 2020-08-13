@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Working Papers"
-    url: /workingpapers/
+ #  - title: "Working Papers"
+ #    url: /workingpapers/
 
  # - title: "Talks"
  #   url: /talks/
 
-#- title: "Teaching"
-#  url: /teaching/
+- title: "Teaching"
+  url: /teaching/
 
  # - title: "Portfolio"
  #  url: /portfolio/
