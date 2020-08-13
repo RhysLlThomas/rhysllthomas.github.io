@@ -36,7 +36,7 @@ layout: default
         {% elsif page.venue %}
           <p> <i> joint with <strong> {{ post.author }}. </strong> </i>
           Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }} </p>
-        {% elsif page.date %}
+        {% elsif page.author %}
           <p> <i> joint with <strong> {{ post.author }}. </strong> </i> Latest version: {{ page.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
         {% endif %}
 
