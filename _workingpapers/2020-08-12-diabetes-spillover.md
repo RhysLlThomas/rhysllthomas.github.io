@@ -6,7 +6,7 @@ permalink: /workingpapers/2020-08-12-diabetes-spillover
 venue: # 'Journal 1'
 excerpt: 'I will be presenting this paper at the EEA Virtual Conference, and slides from the presentation will be available here in the near future.'
 date: 2020-08-12
-paperurl: #http://academicpages.github.io/files/paper1.pdf
+paperurl: http://academicpages.github.io/files/2020-08-12-diabetes-spillover.pdf
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
 
