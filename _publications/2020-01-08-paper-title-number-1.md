@@ -1,9 +1,10 @@
 ---
 title: "The spillover effects of diabetes diagnosis on partners' behaviour"
 collection: publications
-permalink: /publications/2020-08-13-paper-title-number-1
+permalink: /publications/2020-01-08-paper-title-number-1
 excerpt: 'The spillover effects of diabetes diagnosis on partners' behaviour'
-date: 2020-13-08
+date: 2020-01-08
+venue: 'Journal 1'
 paperurl: http://academicpages.github.io/files/paper1.pdf
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
