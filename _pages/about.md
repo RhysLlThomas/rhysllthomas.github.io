@@ -1,5 +1,5 @@
 ---
-permalink: ""
+permalink: "/"
 title: "Rhys Llewellyn Thomas"
 excerpt: "About me"
 author_profile: true
