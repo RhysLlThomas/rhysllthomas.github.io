@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Rhys Llewellyn Thomas / Personal Website"
+title                    : "Rhys Llewellyn Thomas"
 title_separator          : "-"
 name                     : &name "Rhys Llewellyn Thomas"
 description              : &description "PhD Candidate in Economics at the University of Southampton"
-url                      : https://rhysllthomas.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rhysllthomas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rhysllthomas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,8 +85,8 @@ author:
   bio              : "PhD Candidate in Economics at the University of Southampton"
   location         : "United Kingdom"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "R.L.Thomas@soton.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
