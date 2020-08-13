@@ -1,9 +1,10 @@
 ---
 title: "The spillover effects of diabetes diagnosis on partner` behaviour"
+author: "Emmanouil Mentzakis"
 collection: publications
 permalink: /publications/2020-08-12-diabetes-spillover
 venue: 'Journal 1'
-excerpt: 'The spillover effects of diabetes diagnosis on partners` behaviour.'
+excerpt: 'I will be presenting this paper at the EEA Virtual Conference, and slides from the presentation will be available here in the near future.'
 date: 2020-08-12
 paperurl: #http://academicpages.github.io/files/paper1.pdf
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
