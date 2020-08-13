@@ -1,7 +1,7 @@
 ---
 title: "The spillover effects of diabetes diagnosis on partners' behaviour (Job Market Paper)"
-collection: research
-permalink: /workingpapers/diabetes-diagnosis
+collection: workingpapers
+permalink: /workingpapers/2020-13-08-diabetes-diagnosis
 excerpt: 'The spillover effects of diabetes diagnosis on partners' behaviour'
 date: 2020-13-08
 #venue: 'Journal 1'
