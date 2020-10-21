@@ -1,5 +1,5 @@
 ---
-title: "The direct and spillover effects of diabetes diagnosis on behaviour"
+title: "The direct and spillover effects of a diabetes diagnosis on behaviour"
 author: "Emmanouil Mentzakis"
 collection: workingpapers
 permalink: /workingpapers/2020-08-17-diabetes-spillover
