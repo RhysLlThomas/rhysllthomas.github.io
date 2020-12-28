@@ -39,8 +39,8 @@
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p> <strong> {{ post.type }} </strong>, <i>{{ post.venue }}</i>, {{ post.year }}
-       <strong> Module Evaluation: </strong> {{ post.evaluation }} </p>
+      <p> <strong> {{ post.type }} </strong>, <i>{{ post.venue }}</i>, {{ post.year }} </p>
+      <p> <strong> Module Evaluation: </strong> {{ post.evaluation }} </p>
       {% elsif post.author and post.date %}
           <p> <i> joint with <strong> {{ post.author }}. </strong> </i>
           Latest version: {{ post.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
