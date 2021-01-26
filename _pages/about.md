@@ -23,4 +23,4 @@ Before starting my Ph.D. studies, I obtained a BSc. and MSc. in Economics both a
 ***
 
 ## News and Updates
-In April, I will be presenting my paper *"The direct and spillover effects of a diabetes diagnosis on behaviour (joint with Emmanouil Mentzakis)""* at both the [Royal Economic Society Conference](https://www.res.org.uk/event-listing/2021-annual-conference.html) and the [VERB Virtual Seminar Series](https://www.human.cornell.edu/pam/research/hehbad/virtualseminars).
+In April, I will be presenting my paper *"The direct and spillover effects of a diabetes diagnosis on behaviour (joint with Emmanouil Mentzakis)"* at both the [Royal Economic Society Conference](https://www.res.org.uk/event-listing/2021-annual-conference.html) and the [VERB Virtual Seminar Series](https://www.human.cornell.edu/pam/research/hehbad/virtualseminars).
