@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Rhys Llewellyn Thomas"
 title_separator          : "-"
 name                     : &name "Rhys Llewellyn Thomas"
-description              : &description "PhD Candidate in Economics at the University of Southampton"
+description              : &description "Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford"
 url                      : https://rhysllthomas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rhysllthomas.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rhys Llewellyn Thomas"
   avatar           : "profile.jpeg"
-  bio              : "PhD Candidate in Economics at the University of Southampton, UK"
+  bio              : "Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford"
   location         : #"United Kingdom"
   employer         : #"University of Southampton"
   pubmed           :
   googlescholar    :
-  email            : "R.L.Thomas@soton.ac.uk"
+  email            : "Rhys.Thomas@seh.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

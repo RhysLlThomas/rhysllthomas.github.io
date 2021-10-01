@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Health Economist completing a Ph.D. at the University of Southampton. My speciality is in applying econometric methods to health-related research questions. I have a particular interest in health-related inequality and public policy, however, my job market paper has more of a behavioural focus.
+I am an Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford. My research focuses on topics in Health Economics. My speciality is in applying econometric methods to health-related research questions. I teach Microeconomics related subjects to undergraduate students at the University of Oxford.
 
-Before starting my Ph.D. studies, I obtained a BSc. and MSc. in Economics both also at the University of Southampton. Between November 2018 and April 2019 I was on a secondment at the Department for Education (UK), where I spent some time researching school exclusions and factors associated with disadvantaged pupil performance.
+I graduated with a Bachelor’s degree in Economics from the University of Southampton in 2016. Subsequently, I studied for an MSc. and a Ph.D. in Economics, also at the University of Southampton, which were both funded through an ESRC DTC 1+3 Research Studentship. During my Ph.D. studies I was on a secondment at the Department for Education (UK), where I spent some time researching school exclusions and factors associated with disadvantaged pupil performance.
 
 
 
-**Supervisors:** Dr Emmanouil Mentzakis & Dr. Thomas Gall
+**PhD Supervisors:** Dr Emmanouil Mentzakis & Dr. Thomas Gall
 
 **Primary Research Fields:** Health and Public Economics
 
-**Contact:** R.L.Thomas@soton.ac.uk
+**Contact:** Rhys.Thomas@seh.ox.ac.uk
 
 ***
 
 ## News and Updates
-On the 16th of September, I will be presenting my paper *"The direct and spillover effects of a diabetes diagnosis on behaviour (joint with Emmanouil Mentzakis)"* at the [PhD-EVS Seminar Series](https://sites.google.com/view/phd-evs2020/upcoming-presentations?authuser=0).
+This month I started my new position of Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford. 
