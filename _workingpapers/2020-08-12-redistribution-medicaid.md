@@ -2,7 +2,7 @@
 title: "Redistributive effects of a publicly financed healthcare expansion"
 author: "Emmanouil Mentzakis"
 collection: workingpapers
-permalink: /workingpapers/2020-08-17-redistribution-medicaid
+permalink: /workingpapers/2021-07-13-redistribution-medicaid
 venue: # 'Journal 1'
 excerpt: 'A downloadable version of this paper will be available shortly.'
 # date: 2020-08-17
