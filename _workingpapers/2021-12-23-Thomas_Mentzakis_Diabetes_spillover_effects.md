@@ -4,7 +4,7 @@ author: "Emmanouil Mentzakis"
 collection: workingpapers
 permalink: /workingpapers/2021-12-23-Thomas_Mentzakis_Diabetes_spillover_effects
 venue: # 'Journal 1'
-excerpt: 'This paper was presented at the 2020 European Economic Association Virtual Congress, the 2021 Royal Economic Society Conference, and the Virtual Seminar on the Economics of Risky Health Behaviors (VERB) Cornell University.'
+excerpt: 'This paper was presented at the 2020 European Economic Association Virtual Congress, the 2021 Royal Economic Society Conference, the Virtual Seminar on the Economics of Risky Health Behaviors (VERB) Cornell University, and the PhD-EVS Series.'
 date: 2021-12-23
 paperurl: http://rhysllthomas.github.io/files/2021-12-23-Thomas_Mentzakis_Diabetes_spillover_effects.pdf
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
