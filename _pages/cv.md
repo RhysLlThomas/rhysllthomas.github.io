@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my CV below, it was last updated in January 2022.
+You can find a copy of my CV below, it was last updated in March 2022.
 
-[Download Rhys's CV](http://rhysllthomas.github.io/files/Rhys_Thomas_CV_Jan22.pdf)
+[Download Rhys's CV](http://rhysllthomas.github.io/files/Rhys_Thomas_CV_Mar22.pdf)
