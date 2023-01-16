@@ -4,7 +4,7 @@ author: "Emmanouil Mentzakis"
 collection: workingpapers
 permalink: /workingpapers/2022-03-28-redistribution-medicaid
 venue: # 'Journal 1'
-excerpt: 'A downloadable version of this paper will be available shortly.'
+excerpt: 'Redrafting.'
 date: 2022-03-28
 paperurl: #http://rhysllthomas.github.io/files/2020-08-17-diabetes-spillover.pdf
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
