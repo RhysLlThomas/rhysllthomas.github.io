@@ -9,4 +9,4 @@ location: "City, Country"
 evaluation: "na"
 ---
 
-Third year optional paper on Public Economics topics. Topics include: Commodity Taxation, Income Taxation, Pensions, Cost Benefit Analysis, Second Best and Production Efficiency, Healthcare, Education, and, Welfare Reform.
+Third year optional paper on Labour Economics topics. Topics include: Labour supply, Labour Demand and Competitive Equilibrium, Imperfect labour Markets, Minimum wages, Human Capital, Gender, Race and Discrimination, Migration, and Trade Unions and Wage Setting.
