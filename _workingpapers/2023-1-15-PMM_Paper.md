@@ -4,7 +4,7 @@ author: "Thomas Hone & Christopher Millett"
 collection: workingpapers
 permalink: /workingpapers/2023-01-16-PMM_Paper
 venue: # 'Journal 1'
-excerpt: 'Early Working Paper.'
+excerpt: 'Working Paper'
 date: 2023-01-16
 paperurl:
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
