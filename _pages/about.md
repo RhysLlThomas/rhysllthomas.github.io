@@ -22,5 +22,5 @@ I graduated with a Bachelor’s degree in Economics from the University of South
 
 ***
 
-<!--## News and Updates
-**October 2021**: This month I started my new position of Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford. -->
+## News and Updates
+**April 2023**: I am currently vsiting the Department of Applied Economics at HEC Montréal until mid-may.
