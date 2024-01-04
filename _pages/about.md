@@ -8,19 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford. My research focuses on topics in Health Economics. My speciality is in applying econometric methods to health-related research questions. I teach Microeconomics related subjects to undergraduate students at the University of Oxford.
+I a Health Economics Researcher in the Health Economics Research Centre (HERC), Oxford of Population Health at the University of Oxford. My research focuses on applying econometric techniques to questions in Health Economics.
 
-I graduated with a Bachelor’s degree in Economics from the University of Southampton in 2016. Subsequently, I studied for an MSc. and a Ph.D. in Economics, also at the University of Southampton, which were both funded through an ESRC DTC 1+3 Research Studentship. During my Ph.D. studies I was on a secondment at the Department for Education (UK), where I spent some time researching school exclusions and factors associated with disadvantaged pupil performance.
+I graduated with a Bachelor’s degree in Economics from the University of Southampton in 2016. Subsequently, I studied for an MSc. and a Ph.D. in Economics, also at the University of Southampton, which were both funded through an ESRC DTC 1+3 Research Studentship. Prior to joining HERC, I was an Early Career Teaching and Research Fellow in Economics at St Edmund Hall, University of Oxford, where I am now a Fellow by Special Election. At St Edmund Hall I primarily taught undergraduates Microeconomics-related subjects.
 
-
-
-**PhD Supervisors:** Dr Emmanouil Mentzakis & Dr. Thomas Gall
-
-**Primary Research Fields:** Health and Public Economics
 
 **Contact:** Rhys.Thomas@seh.ox.ac.uk
 
 ***
 
 ## News and Updates
-**April 2023**: I am currently vsiting the Department of Applied Economics at HEC Montréal until mid-may.
+**January 2024**: This month I joined Health Economics Research Centre (HERC) at the University of Oxford as a Health Economics Researcher.
