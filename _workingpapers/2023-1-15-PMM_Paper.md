@@ -2,10 +2,10 @@
 title: "More Doctors, better health? Considering doctor numbers in the Mais Medicos Programme"
 author: "Thomas Hone & Christopher Millett"
 collection: workingpapers
-permalink: /workingpapers/2023-01-16-PMM_Paper
+permalink: /workingpapers/2023-05-30-PMM_Paper
 venue: # 'Journal 1'
 excerpt: 'Working Paper'
-date: 2023-04-21
+date: 2023-05-30
 paperurl:
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
