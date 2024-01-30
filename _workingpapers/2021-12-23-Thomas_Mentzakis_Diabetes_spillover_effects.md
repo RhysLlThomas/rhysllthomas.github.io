@@ -4,7 +4,7 @@ author: "Emmanouil Mentzakis"
 collection: workingpapers
 permalink: /workingpapers/2024-01-26-Thomas_Mentzakis_Diabetes_spillover_effects
 venue: # 'Journal 1'
-excerpt: 'Forthcoming in Health Economics https://doi.org/10.1002/hec.4803.'
+excerpt: 'Forthcoming in Health Economics'
 date: 2024-01-26
 paperurl: https://doi.org/10.1002/hec.4803
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
