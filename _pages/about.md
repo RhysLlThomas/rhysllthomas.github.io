@@ -18,4 +18,4 @@ I graduated with a Bachelor’s degree in Economics from the University of South
 ***
 
 ## News and Updates
-**January 2024**: This month I joined Health Economics Research Centre (HERC) at the University of Oxford as a Health Economics Researcher.
+**Feburary 2024**: Our paper "The direct and spillover effects of diabetes diagnosis on lifestyle behaviours" (jointly with Emmanouil Mentzakis) has been sccepted for publication at Health Economics, and is available in [Early View here](https://onlinelibrary.wiley.com/doi/10.1002/hec.4803). 
