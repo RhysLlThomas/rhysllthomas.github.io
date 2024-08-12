@@ -35,8 +35,7 @@ layout: default
         <p> <strong>{{ page.type }},</strong> <i>{{ page.venue }}</i>, {{ page.year }}. </p>
         <p> <strong> Module Evaluation: </strong> {{ page.evaluation }} </p>
           {% elsif page.date and page.author %}
-          <p> <i> joint with <strong> {{ page.author }}. </strong> </i>
-          Latest version: {{ page.date | default: "1900-01-01" | date: "%e %B %Y" }} </p>
+          <p> <i> joint with <strong> {{ page.author }}. </strong> </i></p>
           {% elsif page.author %}
           <p> <i> joint with <strong> {{ page.author }}. </strong> </i> </p>
           {% elsif page.venue %}
