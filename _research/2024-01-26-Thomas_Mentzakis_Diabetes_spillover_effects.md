@@ -6,8 +6,10 @@ permalink: /research/2024-01-26-Thomas_Mentzakis_Diabetes_spillover_effects
 excerpt:
 #date: 2024-01-26
 venue: 'Health Economics'
-paperurl: https://onlinelibrary.wiley.com/doi/10.1002/hec.4803
-citation: 'Thomas, R.L., Mentzakis, E., 2024. The direct and spillover effects of diabetes diagnosis on lifestyle behaviours. Health Economics 33, 952–970. https://doi.org/10.1002/hec.4803'
+paperurl: https://doi.org/10.1002/hec.4803
+citation: 'Thomas, R.L. and Mentzakis, E. (2024) `The direct and spillover effects of diabetes diagnosis on lifestyle behaviours', Health Economics'
+
+
 ---
 ## Abstract
 
