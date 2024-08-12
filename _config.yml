@@ -179,7 +179,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  workingpapers:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -219,10 +219,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _workingpapers
+  # _research
   - scope:
       path: ""
-      type: workingpapers
+      type: research
     values:
       layout: single
       author_profile: true

@@ -1,8 +1,8 @@
 ---
 title: "The direct and spillover effects of diabetes diagnosis on lifestyle behaviours"
 author: "Emmanouil Mentzakis"
-collection: workingpapers
-permalink: /workingpapers/2024-01-26-Thomas_Mentzakis_Diabetes_spillover_effects
+collection: research
+permalink: /research/2024-01-26-Thomas_Mentzakis_Diabetes_spillover_effects
 venue: # 'Journal 1'
 excerpt: 'Forthcoming in Health Economics'
 date: 2024-01-26
