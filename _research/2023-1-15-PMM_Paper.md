@@ -2,12 +2,12 @@
 title: "More Doctors, better health? Considering doctor numbers in the Mais Medicos Programme"
 author: "Christopher Millett, Ricardo de Sousa Soares, and Thomas Hone"
 collection: research
-permalink: /research/2023-05-30-PMM_Paper
-venue: # 'Journal 1'
-excerpt: 'Forthcoming in Social Science and Medicine'
-date: 2024-08-09
-paperurl:
-citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
+permalink: /research/2024-08-09-PMM_Paper
+#excerpt:
+date: 2024-01-26
+venue: 'Social Science and Medicine'
+#paperurl:
+citation: 'Thomas, R.L., Millett, C., Sousa Soares, R., Hone, T. 2024. More Doctors, better health? Considering doctor numbers in the Mais Medicos Programme. Social Science and Medicine (Forthcoming)'
 ---
 
 ## Abstract
