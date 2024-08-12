@@ -5,7 +5,7 @@ collection: research
 permalink: /research/2023-05-30-PMM_Paper
 venue: # 'Journal 1'
 excerpt: 'Forthcoming in Social Science and Medicine'
-date: 2023-05-30
+date: 2024-08-09
 paperurl:
 citation: #'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
