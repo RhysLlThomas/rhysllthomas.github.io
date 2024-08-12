@@ -7,7 +7,7 @@ excerpt:
 #date: 2024-01-26
 venue: 'Health Economics'
 paperurl: https://doi.org/10.1002/hec.4803
-citation: 'Thomas, R.L. and Mentzakis, E. (2024) `The direct and spillover effects of diabetes diagnosis on lifestyle behaviours', Health Economics'
+citation: 'Thomas, R.L. and Mentzakis, E. (2024) "The direct and spillover effects of diabetes diagnosis on lifestyle behaviours", Health Economics'
 
 
 ---
