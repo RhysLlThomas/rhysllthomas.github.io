@@ -18,4 +18,4 @@ I graduated with a Bachelor’s degree in Economics from the University of South
 ***
 
 ## News and Updates
-**Feburary 2024**: Our paper "The direct and spillover effects of diabetes diagnosis on lifestyle behaviours" (jointly with Emmanouil Mentzakis) has been accepted for publication at *Health Economics*, and is available in [Early View here](https://onlinelibrary.wiley.com/doi/10.1002/hec.4803).
+**August 2024**: Our paper "More Doctors, better health? A generalised synthetic control approach to estimating impacts of increasing doctors under Brazil’s Mais Medicos Programme" (jointly with Christopher Millett, Ricardo de Sousa Soares, and Thomas Hone) has been accepted for publication at *Social Science & Medicine*, and will be available to view online soon. 
