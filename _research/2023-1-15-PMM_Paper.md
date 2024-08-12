@@ -1,6 +1,6 @@
 ---
 title: "More Doctors, better health? Considering doctor numbers in the Mais Medicos Programme"
-author: "Thomas Hone & Christopher Millett"
+author: "Christopher Millett, Ricardo de Sousa Soares, and Thomas Hone"
 collection: research
 permalink: /research/2023-05-30-PMM_Paper
 venue: # 'Journal 1'
