@@ -18,4 +18,4 @@ I graduated with a Bachelor’s degree in Economics from the University of South
 ***
 
 ## News and Updates
-**August 2024**: Our paper "*More Doctors, better health? A generalised synthetic control approach to estimating impacts of increasing doctors under Brazil’s Mais Medicos Programme*" (jointly with Christopher Millett, Ricardo de Sousa Soares, and Thomas Hone) has been accepted for publication at *Social Science & Medicine*, and is available online [here](https://doi.org/10.1016/j.socscimed.2024.117222).
+**August 2024**: Our paper "*More Doctors, better health? A generalised synthetic control approach to estimating impacts of increasing doctors under Brazil’s Mais Medicos Programme*" (jointly with Christopher Millett, Ricardo de Sousa Soares, and Thomas Hone) has been accepted for publication at *Social Science & Medicine*, and is available online here: [https://doi.org/10.1016/j.socscimed.2024.117222](https://doi.org/10.1016/j.socscimed.2024.117222).
