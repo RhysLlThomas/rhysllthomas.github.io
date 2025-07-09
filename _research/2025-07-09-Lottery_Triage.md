@@ -1,5 +1,5 @@
 ---
-title: "Lottery or Triage? Multi-country survey-based experiment evidence from the COVID-19 pandemic on public preferences for allocation of scarce medical resources"
+title: "Lottery or Triage? Multi-country survey-based experiment evidence from the COVID-19 pandemic on public preferences for allocation of scarce medical resources."
 author: "Laurence Roope, Raymond Duch Thomas Robinson, Alexei V. Zakharov, and Philip Clarke"
 collection: research
 permalink: /research/2025-07-09-Lottery_Triage

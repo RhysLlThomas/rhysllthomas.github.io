@@ -18,4 +18,4 @@ I graduated with a Bachelor’s degree in Economics from the University of South
 ***
 
 ## News and Updates
-**March 2025**: Our project, *'Providing Empirical Evidence to Advance Equality, Diversity, and Inclusion (EDI) in Research Funding'*—in collaboration with Philip Clarke, Adrian Barnett, Raymond Duch, Marian Knight, and Mara Violato—has been awarded a UKRI Metscience Grant. [Read the press release here.](https://www.gov.uk/government/news/fellowships-launched-to-explore-how-ai-could-change-the-way-scientists-drive-new-discoveries)
+**July 2025**: Our paper, *'Lottery or Triage? Multi-country survey-based experiment evidence from the COVID-19 pandemic on public preferences for allocation of scarce medical resources'*—joint with Laurence Roope, Raymond Duch Thomas Robinson, Alexei V. Zakharov, and Philip Clarke was recently accepted at Medical Decision Making. 
