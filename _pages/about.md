@@ -18,4 +18,4 @@ I graduated with a Bachelor’s degree in Economics from the University of South
 ***
 
 ## News and Updates
-**July 2025**: Our paper, *'Lottery or Triage? Multi-country survey-based experiment evidence from the COVID-19 pandemic on public preferences for allocation of scarce medical resources'*—joint with Laurence Roope, Raymond Duch Thomas Robinson, Alexei V. Zakharov, and Philip Clarke was recently accepted at Medical Decision Making. 
+**July 2025**: Our paper, *'Lottery or Triage? Multi-country survey-based experiment evidence from the COVID-19 pandemic on public preferences for allocation of scarce medical resources'*—joint with Laurence Roope, Raymond Duch Thomas Robinson, Alexei V. Zakharov, and Philip Clarke was recently accepted at *Medical Decision Making*. 
