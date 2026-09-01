@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Rhys Llewellyn Thomas"
 title_separator          : "-"
 name                     : &name "Rhys Llewellyn Thomas"
-description              : &description "Health Economics Researcher at the Health Economics Research Centre, Oxford of Population Health, University of Oxford University of Oxford"
+description              : &description "Lecturer in Health Economics, Department of Economics, City St George's, University of London"
 url                      : https://rhysllthomas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rhysllthomas.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Rhys Llewellyn Thomas"
   avatar           : "profile.jpeg"
-  bio              : "Health Economics Researcher at HERC, University of Oxford"
-  uniwebpage       : "https://www.herc.ox.ac.uk/team/rhys-thomas"
+  bio              : "Lecturer in Health Economics at City St George's, University of London"
+  uniwebpage       :
   location         : #"United Kingdom"
   employer         : #"St Edmund Hall, University of Oxford"
   pubmed           :
   googlescholar    :
-  email            : "Rhys.Thomas@dph.ox.ac.uk"
+  email            : "Rhys.Thomas.3@citystgeorges.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
