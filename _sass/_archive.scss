@@ -276,8 +276,16 @@
     margin-top: 0;
   }
 
-  h3 {
-    margin: 0.5em 0 0.25em;
+  li {
+    margin-bottom: 0.75em;
+  }
+
+  .teaching-course {
+    display: block;
+  }
+
+  .teaching-meta {
+    display: block;
     font-size: $type-size-6;
     color: $gray;
   }
