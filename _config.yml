@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "og-image.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,6 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Lecturer in Health Economics at City St George's, University of London"
   uniwebpage       : "https://www.citystgeorges.ac.uk/about/people/academics/rhys-thomas"
+  office_hours     : "https://bookings.cloud.microsoft/bookwithme/user/e05640cf4fbe4a47a02ecca4ca78d95c@citystgeorges.ac.uk?anonymous&ismsaljsauthenabled&ep=plink"
   location         : #"United Kingdom"
   employer         : #"St Edmund Hall, University of Oxford"
   pubmed           :

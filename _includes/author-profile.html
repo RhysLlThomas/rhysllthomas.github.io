@@ -121,6 +121,9 @@
 {% if author.uniwebpage %}
   <li><a href="{{ author.uniwebpage }}"><i class="fas fa-fw fa-university" aria-hidden="true"></i> University Profile</a></li>
 {% endif %}
+{% if author.office_hours %}
+  <li><a href="{{ author.office_hours }}"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Office Hours</a></li>
+{% endif %}
     </ul>
   </div>
 </div>

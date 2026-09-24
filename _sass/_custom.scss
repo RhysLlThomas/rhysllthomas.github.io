@@ -264,3 +264,59 @@ a {
 .teaching-list h2 {
   color: $heading-color;
 }
+
+.publication-abstract {
+  margin-top: 0.4em;
+
+  summary {
+    display: inline-block;
+    color: $primary-color;
+    font-size: $type-size-6;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:before {
+      content: "\25B8";
+      display: inline-block;
+      margin-right: 0.35em;
+      transition: transform 0.15s ease;
+    }
+  }
+
+  &[open] summary:before {
+    transform: rotate(90deg);
+  }
+
+  p {
+    margin: 0.6em 0 0;
+    color: $muted-color;
+    font-size: 0.9em;
+  }
+}
+
+/* Contact details on the home page
+   ========================================================================== */
+
+.contact-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6em;
+    margin-bottom: 0.5em;
+  }
+
+  .fas {
+    flex: none;
+    color: $primary-color;
+  }
+}

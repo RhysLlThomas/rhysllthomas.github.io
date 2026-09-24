@@ -20,6 +20,14 @@ redirect_from:
     {{ post.title }}
     <em>{{ post.venue }}</em>.
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.paperurl | remove: "https://doi.org/" | prepend: "doi:" }}</a>{% endif %}
+    {% assign abstract = post.content | strip %}
+    {% if abstract contains "</h2>" %}{% assign abstract = abstract | split: "</h2>" | last | strip %}{% endif %}
+    {% if abstract != "" %}
+    <details class="publication-abstract">
+      <summary>Abstract</summary>
+      {{ abstract }}
+    </details>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
