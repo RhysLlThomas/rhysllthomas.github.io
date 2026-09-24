@@ -243,3 +243,16 @@
     }
   }
 }
+
+/*
+   Publications list
+   ========================================================================== */
+
+.publication-list {
+  padding-left: 1.5em;
+
+  .publication {
+    margin-bottom: 1em;
+    line-height: 1.5;
+  }
+}

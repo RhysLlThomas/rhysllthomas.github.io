@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
+  - /research/
   - /workingpapers/
   - /workingpapers.html
 ---
@@ -12,8 +13,13 @@ redirect_from:
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
+<ol class="publication-list" reversed>
 {% for post in site.research reversed %}
-  {% include archive-single.html %}
+  <li class="publication">
+    {{ post.authors | replace: "Thomas, R.L.", "<strong>Thomas, R.L.</strong>" }} ({{ post.year }}).
+    {{ post.title }}
+    <em>{{ post.venue }}</em>.
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.paperurl | remove: "https://doi.org/" | prepend: "doi:" }}</a>{% endif %}
+  </li>
 {% endfor %}
+</ol>
