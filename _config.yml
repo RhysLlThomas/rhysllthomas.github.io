@@ -147,6 +147,12 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - CONTRIBUTING.md
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - _workingpapers
 keep_files:
   - .git
   - .svn
@@ -180,12 +186,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   research:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

@@ -1,0 +1,278 @@
+/* ==========================================================================
+   SITE-SPECIFIC OVERRIDES
+   Loaded last so these take precedence over the base theme.
+   ========================================================================== */
+
+$heading-color: #14263f;
+$muted-color: #5f6b77;
+
+body {
+  color: $text-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $heading-color;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+a {
+  text-decoration-color: rgba($primary-color, 0.35);
+  text-underline-offset: 0.18em;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+  &:hover {
+    color: $link-color-hover;
+    text-decoration-color: $link-color-hover;
+  }
+}
+
+/* Layout: keep content centred and readable on wide screens
+   ========================================================================== */
+
+@include breakpoint($x-large) {
+  #main,
+  .masthead__inner-wrap,
+  .page__footer footer {
+    max-width: 1140px;
+  }
+}
+
+/* Masthead
+   ========================================================================== */
+
+.masthead {
+  border-bottom: 1px solid $border-color;
+  background: #fff;
+}
+
+.masthead__inner-wrap {
+  padding-top: 1.1em;
+  padding-bottom: 1.1em;
+}
+
+.masthead__menu-item {
+  font-size: 0.95em;
+  font-weight: 500;
+
+  .greedy-nav &--lg a {
+    color: $heading-color;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+}
+
+.greedy-nav {
+  a {
+    color: $masthead-link-color;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+  }
+
+  .visible-links a:before {
+    background: $primary-color;
+  }
+
+  button {
+    background-color: $primary-color;
+    border-bottom: none;
+  }
+}
+
+/* Page titles
+   ========================================================================== */
+
+.page__title,
+.archive .page__title {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  color: $heading-color;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.page__content h2,
+.archive h2 {
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid $border-color;
+}
+
+.page__content hr {
+  display: none;
+}
+
+/* Sidebar / author profile
+   ========================================================================== */
+
+.author__avatar img {
+  border: none;
+  padding: 0;
+}
+
+.sidebar .author__name {
+  color: $heading-color;
+  font-weight: 700;
+}
+
+.author__bio {
+  color: $muted-color;
+}
+
+.author__urls {
+  a {
+    color: $muted-color;
+
+    &:hover {
+      color: $primary-color;
+      text-decoration: none;
+    }
+  }
+
+  .fas,
+  .fab,
+  .fa,
+  .ai {
+    color: $primary-color;
+  }
+}
+
+// On small screens show the contact links inline under the name,
+// instead of behind a "Follow" dropdown button.
+@include breakpoint(max-width $large) {
+  .author__urls-wrapper {
+    display: block;
+    margin-top: 0.75em;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em 1.25em;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    a {
+      margin-bottom: 0;
+      font-size: 1.15em;
+    }
+  }
+}
+
+/* Footer
+   ========================================================================== */
+
+.page__footer {
+  background-color: #fff;
+  border-top: 1px solid $border-color;
+  color: $muted-color;
+
+  footer {
+    margin-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
+}
+
+.page__footer-follow {
+  display: none;
+}
+
+/* Home page
+   ========================================================================== */
+
+.research-interests {
+  margin: 1.25em 0 1.5em;
+  padding: 0.9em 1.1em;
+  border-left: 3px solid $primary-color;
+  background: #f5f7fa;
+  font-size: 0.95em;
+
+  p {
+    margin: 0;
+  }
+}
+
+.news-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0.9em;
+  }
+}
+
+.news-date {
+  display: block;
+  color: $muted-color;
+  font-size: $type-size-6;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* CV page
+   ========================================================================== */
+
+.btn--cv,
+.archive a.btn--cv,
+.page__content a.btn--cv {
+  display: inline-block;
+  margin: 0.5em 0 1.5em;
+  padding: 0.6em 1.2em;
+  border: none;
+  border-radius: $border-radius;
+  background: $primary-color;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9em;
+
+  &:hover {
+    background: $link-color-hover;
+  }
+}
+
+.cv-embed {
+  display: none;
+  width: 100%;
+  height: 85vh;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
+/* Publications and teaching lists
+   ========================================================================== */
+
+.publication-list .publication {
+  padding-bottom: 1em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.teaching-list h2 {
+  color: $heading-color;
+}

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my CV below, it was last updated in September 2026.
+My CV was last updated in September 2026.
 
-[Download Rhys's CV](http://rhysllthomas.github.io/files/Rhys_Thomas_CV_Sep_26.pdf)
+<a class="btn--cv" href="{{ base_path }}/files/Rhys_Thomas_CV_Sep_26.pdf" download>Download CV (PDF)</a>
+
+<iframe class="cv-embed" src="{{ base_path }}/files/Rhys_Thomas_CV_Sep_26.pdf" title="Rhys Llewellyn Thomas CV"></iframe>
