@@ -14,7 +14,7 @@ I graduated with a BSc in Economics from the University of Southampton in 2016. 
 ## Contact
 
 <ul class="contact-list">
-  <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <a href="mailto:rhys.thomas.3@citystgeorges.ac.uk">rhys.thomas.3@citystgeorges.ac.uk</a></li>
+  <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <a href="mailto:Rhys.L.Thomas@citystgeorges.ac.uk">Rhys.L.Thomas@citystgeorges.ac.uk</a></li>
   <li><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> <a href="{{ site.author.office_hours }}">Book office hours</a></li>
   <li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> Department of Economics, City St George's, University of London, Northampton Square, London EC1V 0HB</li>
 </ul>
